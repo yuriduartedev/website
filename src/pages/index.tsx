@@ -1,5 +1,9 @@
 import Main from 'components/Main'
 
 export default function Home() {
-  return <Main title="Em desenvoldimento..." />
+  return (
+    <>
+      <Main title="Em desenvoldimento..." />
+    </>
+  )
 }

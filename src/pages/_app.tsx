@@ -8,8 +8,8 @@ function App({ Component, pageProps }: AppProps) {
     <>
       <Head>
         <title>Yuri Duarte</title>
-        <link rel="shortcut icon" href="/img/icon-512.png" />
-        <link rel="apple-touch-icon" href="/img/icon-512.png" />
+        <link rel="shortcut icon" href="/img/dedos_cruzados.png" />
+        <link rel="apple-touch-icon" href="/img/dedos_cruzados.png" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#06092B" />
         <meta
