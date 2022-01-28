@@ -16,6 +16,7 @@ function App({ Component, pageProps }: AppProps) {
           name="description"
           content="A simple project starter to work with TypeScript, React, NextJS and Styled Components"
         />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8722023550436773" crossOrigin="anonymous"></script>
       </Head>
       <GlobalStyles />
       <Component {...pageProps} />
