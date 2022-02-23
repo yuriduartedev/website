@@ -15,15 +15,15 @@ function App({ Component, pageProps }: AppProps) {
 
 
         <title>Apartamento à venda em Botafogo com 2 quartos - Campainha</title>
-        <meta name="description" content="Apartamento à venda em Botafogo, Rio de Janeiro com 2 quartos, preço R$ 1.225.000 e a segurança da imobiliária Ligiero Imóveis para comprar seu imóvel" />
-        <meta name="keywords" content="apartamento à venda em botafogo, rio de janeiro" />
-        <meta property="og:title" content="Apartamento à venda em Botafogo com 2 quartos - Campainha" />
-        <meta property="og:description" content="Apartamento à venda em Botafogo, Rio de Janeiro com 2 quartos, preço R$ 1.225.000 e a segurança da imobiliária Ligiero Imóveis para comprar seu imóvel" />
-        <meta property="og:image" content="https://cdn-images.campainha.com.br/dyhbiLqv7dKwRjQC_F2hebet6fY=/fit-in/285x189/filters:fill(black):format(jpeg):quality(80)/https://joseligiero.com.br/upload/imoveis/893840269290.jpg" />
+        <meta name="description" content="Em 1931, Winston Churchill previu que um dia o homem escaparia do absurdo de criar uma galinha inteira para comer somente o peito ou a asa, produzindo essas partes separadamente em um meio adequado." />
+        <meta name="keywords" content="inovação tecnologia e sustentabilidade em pescado" />
+        <meta property="og:title" content="Sustineri Piscis" />
+        <meta property="og:description" content="Em 1931, Winston Churchill previu que um dia o homem escaparia do absurdo de criar uma galinha inteira para comer somente o peito ou a asa, produzindo essas partes separadamente em um meio adequado." />
+        <meta property="og:image" content="https://sustineripiscis.com/img/backgrounds/fundo_print.png" />
         <meta property="og:image:type" content="image/png" />
         <meta property="og:image:width" content="300" />
         <meta property="og:image:height" content="300" />
-        <meta property="og:url" content="https://www.campainha.com.br/imoveis/venda-de-apartamento-com-2-quartos-78-m2-com-garagem-botafogo-rio-de-janeiro-rj-5e5e56fd-2a5c-427b-9072-28eb669bd1fd" />
+        <meta property="og:url" content="https://sustineripiscis.com/" />
 
         <script data-ad-client="ca-pub-8722023550436773" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
       </Head>
